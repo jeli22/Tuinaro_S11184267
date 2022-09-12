@@ -1,4 +1,7 @@
 # Refrences 
-* Amore, M., Contributed equally to this work with:,Mario Amore, Garofalo, O., Martin-Sanchez, V., & Victor Martin-Sanchez Victor Martin-Sanchez Contributed equally to this work with:,Mario Amore. (2022). Dispositional optimism and business recovery during a pandemic. PLoS One, 17(6) 
-* Lappi, O. (2022). Egocentric chunking in the predictive brain: A cognitive basis of expert performance in high-speed sports. Frontiers in Human Neuroscience
-* Moore, J. (2017). John B. watson's classical S–R behaviorism. The Journal of Mind and Behavior, 38(1), 1-34. Retrieved from 
+
+* Cosmides, L., & Tooby, J. (2013). Evolutionary Psychology: New Perspectives on Cognition and Motivation. Annual Review of Psychology, 64(1), 201-229.
+
+*K.I.Altman, & T.E.Linton. (1971). Operant Conditioning in the Classroom Setting: A Review of the Research. The Journal of Educational Research, 64(6), 277-286.
+
+*PhilipRobbins. (2008). Consciousness and the social mind. Cognitive Systems Research, 9(1-2), 15-23.
